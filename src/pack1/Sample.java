@@ -1,7 +1,8 @@
-Class Sample
+public class Exampletest 
 {
-  public static void main(String[] args)
-  {
-      System.out.println("running tests")
-  }
+	@Test
+	public void test()
+	{
+		Reporter.log("this s used to test");
+	}
 }
