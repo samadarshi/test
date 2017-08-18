@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      
+      <class name="pack1.CreatecustomerTest"/>
+      <class name="pack2.CreateprojectTest"/>
+      <class name="pack3.CreateprojectreportTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
